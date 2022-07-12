@@ -14,7 +14,7 @@ const difficultyData = {
     intermediate: {
         ROW: 16,
         COLUMN: 16,
-        MINES: 40,
+        MINES: 10,
     },
     hard: {
         ROW: 16,
